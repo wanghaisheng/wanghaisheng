@@ -8,7 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanghaisheng" alt="wanghaisheng" /></a> </p>
 
-- 🔭 I’m currently working on **tiktoka uploader**
+- 🔭 I’m currently working on 
+- [**tiktoka uploader**](https://github.com/wanghaisheng/youtube-auto-upload)
+- [**automated_youtube_channel_cashcowmachine**](https://github.com/wanghaisheng/automated_youtube_channel_cashcowmachine)
+- [**subtitle-generation-toolkits-without-costs**](https://github.com/red-movie-of-china/subtitle-generation-toolkits)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

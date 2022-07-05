@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm heisen</h1>
 <h3 align="center">A passionate pm from China</h3>
-医疗行业从业十年，医疗信息化标准专家，开源技术的卜道师，半路出家的码畜，曾经高考英语136，毕业多年已成废柴，托福也没考过
+医疗行业从业十年，野生产品狗，医疗信息化标准专家，开源技术的卜道师，半路出家的码畜，曾经高考英语136，毕业多年已成废柴，托福也没考过
 
 Benjamin Franklin once said: “If you would not be forgotten as soon as you are dead, either write something worth reading, or do something worth writing.”
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanghaisheng&label=Profile%20views&color=0e75b6&style=flat" alt="wanghaisheng" /> </p>

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+last  6 months  I have joined a company making military product which open network is not easy.
+last week I have moved to a new apartment  and again back to github world
 
 <h1 align="center">Hi 👋, I'm heisen</h1>
 <h3 align="center">Automation is my thing.A passionate pm from China</h3>

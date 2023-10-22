@@ -21,8 +21,7 @@ Benjamin Franklin once said: “If you would not be forgotten as soon as you are
 - [**tiktoka link genious**](https://github.com/wanghaisheng/link-genious)
 - [**tiktoka pdf genious**](https://github.com/wanghaisheng/pdf-genious)
 - [**tiktoka uploader**](https://github.com/wanghaisheng/youtube-auto-upload)
-- [**automated_youtube_channel_cashcowmachine**](https://github.com/wanghaisheng/automated_youtube_channel_cashcowmachine)
-- [**subtitle-generation-toolkits-without-costs**](https://github.com/red-movie-of-china/subtitle-generation-toolkits)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

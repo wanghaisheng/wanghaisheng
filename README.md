@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+
 what happens when smart watch + chinese traditional medicine.
 start to build my first product Tiktoka studio uploder
+
+<a href="https://polar.sh/wanghaisheng"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=wanghaisheng" /></a>
 
 <h1 align="center">Hi 👋, I'm heisen</h1>
 <h3 align="center">Automation is my thing.A passionate smart watch pm from China</h3>

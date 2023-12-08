@@ -16,15 +16,15 @@ Benjamin Franklin once said: “If you would not be forgotten as soon as you are
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanghaisheng" alt="wanghaisheng" /></a> </p>
 
 - 🔭 I’m currently working on 
-- [**tiktoka uploader genious**](https://github.com/wanghaisheng/tiktoka-studio-uploader-genious)
-- [**tiktoka video genious**](https://github.com/wanghaisheng/video-genius)
-- [**tiktoka thumbnail genious**](https://github.com/wanghaisheng/thumnail-geniuous)
-- [**tiktoka post genious**](https://github.com/wanghaisheng/post-genious)
-- [**tiktoka account genious**](https://github.com/wanghaisheng/social-account-genious)
-- [**tiktoka link genious**](https://github.com/wanghaisheng/link-genious)
-- [**tiktoka pdf genious**](https://github.com/wanghaisheng/pdf-genious)
+- [**tiktoka uploader genius**](https://github.com/wanghaisheng/tiktoka-studio-uploader-genious)
+- [**tiktoka video genius**](https://github.com/wanghaisheng/video-genius)
+- [**tiktoka thumbnail genius**](https://github.com/wanghaisheng/thumnail-geniuous)
+- [**tiktoka post genius**](https://github.com/wanghaisheng/post-genious)
+- [**tiktoka account genius**](https://github.com/wanghaisheng/social-account-genious)
+- [**tiktoka link genius**](https://github.com/wanghaisheng/link-genious)
+- [**tiktoka pdf genius**](https://github.com/wanghaisheng/pdf-genious)
 - [**tiktoka uploader**](https://github.com/wanghaisheng/youtube-auto-upload)
-- [**tiktoka brand genious**](https://github.com/wanghaisheng/brand-genious)
+- [**tiktoka brand genius**](https://github.com/wanghaisheng/brand-genious)
 
 
 <h3 align="left">Connect with me:</h3>

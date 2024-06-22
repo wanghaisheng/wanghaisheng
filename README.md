@@ -16,7 +16,7 @@ Benjamin Franklin once said: “If you would not be forgotten as soon as you are
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanghaisheng" alt="wanghaisheng" /></a> </p>
 
 - 🔭 I’m currently working on 
-- [**tiktoka uploader genius**](https://github.com/wanghaisheng/tiktoka-studio-uploader-genious)
+- [**tiktoka uploader genius**](https://github.com/wanghaisheng/tiktoka-studio-uploader-app)
 - [**tiktoka video genius**](https://github.com/wanghaisheng/video-genius)
 - [**tiktoka thumbnail genius**](https://github.com/wanghaisheng/thumnail-geniuous)
 - [**tiktoka post genius**](https://github.com/wanghaisheng/post-genious)

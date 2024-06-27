@@ -13,7 +13,7 @@ start to build my first product Tiktoka studio uploder
 Benjamin Franklin once said: “If you would not be forgotten as soon as you are dead, either write something worth reading, or do something worth writing.”
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanghaisheng&label=Profile%20views&color=0e75b6&style=flat" alt="wanghaisheng" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanghaisheng" alt="wanghaisheng" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanghaisheng&theme=matrix" alt="wanghaisheng" /></a> </p>
 
 - 🔭 I’m currently working on 
 - [**tiktoka uploader genius**](https://github.com/wanghaisheng/tiktoka-studio-uploader-app)

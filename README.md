@@ -30,7 +30,8 @@ Benjamin Franklin once said: “If you would not be forgotten as soon as you are
 - [**tiktoka pdf genius**](https://github.com/wanghaisheng/pdf-genious)
 - [**tiktoka uploader**](https://github.com/wanghaisheng/youtube-auto-upload)
 - [**tiktoka brand genius**](https://github.com/wanghaisheng/brand-genious)
-
+- [persona genius](https://github.com/wanghaisheng/persona-account-genius/tree/master
+- [linkedinGenius](https://github.com/wanghaisheng/linkedinGenius/tree/master)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -17,10 +17,11 @@ Benjamin Franklin once said: “If you would not be forgotten as soon as you are
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanghaisheng&label=Profile%20views&color=0e75b6&style=flat" alt="wanghaisheng" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanghaisheng&theme=matrix" alt="wanghaisheng" /></a> </p>
-
-
- [my github fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)
 - 🔭 I’m currently working on 
+ [my github fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)
+
+- 🔭 previous
+  
 - [**tiktoka uploader genius**](https://github.com/wanghaisheng/tiktoka-studio-uploader-app)
 - [**tiktoka video genius**](https://github.com/wanghaisheng/video-genius)
 - [**tiktoka thumbnail genius**](https://github.com/wanghaisheng/thumnail-geniuous)

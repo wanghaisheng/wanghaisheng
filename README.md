@@ -17,6 +17,15 @@ Benjamin Franklin once said: “If you would not be forgotten as soon as you are
 - [**English Resume**](https://wanghaisheng-github-io.vercel.app/blog/resume-english)
   
 - [**个人使用说明书**](https://wanghaisheng-github-io.vercel.app/blog/resume)
+
+
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+
+
 - 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanghaisheng&label=Profile%20views&color=0e75b6&style=flat" alt="wanghaisheng" /> </p>
 
@@ -38,7 +47,3 @@ Benjamin Franklin once said: “If you would not be forgotten as soon as you are
 - [**tiktoka keyword genius**](https://github.com/wanghaisheng/keyword-genius)
 - [persona genius](https://github.com/wanghaisheng/persona-account-genius/tree/master)
 - [linkedinGenius](https://github.com/wanghaisheng/linkedinGenius/tree/master)
-
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>

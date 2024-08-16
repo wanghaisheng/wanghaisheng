@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<iframe src="https://github.com/sponsors/wanghaisheng/button" title="Sponsor wanghaisheng" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 <h1 align="center">Hi 👋, I'm heisen</h1>
 <h3 align="center">Automation is my thing.A passionate smart watch pm from China</h3>

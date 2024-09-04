@@ -36,7 +36,7 @@ Benjamin Franklin once said: “If you would not be forgotten as soon as you are
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanghaisheng&theme=matrix" alt="wanghaisheng" /></a> </p>
 - 🔭 I’m currently working on 
  [my github fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)
-
+- [seed of gratitude:](https://github.com/wanghaisheng/seed-of-gratitude)
 - 🔭 previous
   
 - [**tiktoka uploader genius**](https://github.com/wanghaisheng/tiktoka-studio-uploader-app)

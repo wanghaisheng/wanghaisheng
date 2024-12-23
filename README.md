@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-working on heytcm project now
+working on heytcm project now.It is a mix  about Game,self care,wearable device,tcm 
 
 https://heytcm.com
 

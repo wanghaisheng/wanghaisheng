@@ -1,0 +1,126 @@
+### Hi there 👋
+
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🌱 My latest projects
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+#### 🍴 My recent forks
+{{range recentForks 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+#### 🔭 Latest releases I've contributed to
+{{range recentReleases 10}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
+
+#### 🔨 My recent Pull Requests
+{{range recentPullRequests 10}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### 📜 My recent blog posts
+{{range rss "https://.../posts/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+#### 📓 Gists I wrote
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### ⭐ Recent Stars
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
+#### ❤️ These awesome people sponsor me (thank you!)
+{{range sponsors 5}}
+- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### 👯 Check out some of my recent followers
+{{range followers 5}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
+
+#### 💬 Feedback
+
+Say Hello, I don't bite!
+
+#### 📫 How to reach me
+
+- Twitter: https://twitter.com/edwin_uestc
+- Fediverse: https://mastodon.social/@...
+- Blog: https://borninsea.com
+
+
+### old
+
+
+### Hi there 👋
+
+any support is appreciated
+
+<a href="https://www.producthunt.com/posts/moodweather?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-moodweather" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=740574&theme=light" alt="MoodWeather - mood&#0032;tracker&#0032;app&#0045;&#0032;use&#0032;weather&#0032;as&#0032;your&#0032;mood&#0032;language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+
+
+working on heytcm project now.It is a mix  about Game,self care,wearable device,tcm 
+
+https://heytcm.com
+
+很久很久以前我没有太想过理想能不能实现这件事，坚持的过程没有正反馈这件事大约2018开始就把我弄崩溃了，不过今年收获很大，一是鸡蛋不要放在一个篮子里，二是你好中医这个项目，有点愚公移山精卫填海的意思，尽管很难，但可以预见的是这件事情最终它是会实现的，当下我只要学习那只让大提毁于一旦的蚂蚁就好。
+
+
+
+<h1 align="center">Hi 👋, I'm heisen</h1>
+<h3 align="center">Automation is my thing.A passionate smart watch pm from China</h3>
+医疗行业从业十年，野生产品狗，医疗信息化标准专家，开源技术的卜道师，半路出家的码畜,离职在家的废物。
+
+With ten years of experience in the Health information  industry, I am a self-taught product dog, an expert in medical informatization standards, a diviner of open-source technology, and a programmer who started halfway. Now I am a waste staying at home after resigning.
+
+
+Benjamin Franklin once said: “If you would not be forgotten as soon as you are dead, either write something worth reading, or do something worth writing.”
+
+- [**English Resume**](https://wanghaisheng-github-io.vercel.app/blog/resume-english)
+  
+- [**个人使用说明书**](https://wanghaisheng-github-io.vercel.app/blog/resume)
+
+
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+
+
+- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wanghaisheng&label=Profile%20views&color=0e75b6&style=flat" alt="wanghaisheng" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wanghaisheng&theme=matrix" alt="wanghaisheng" /></a> </p>
+- 🔭 I’m currently working on [my github fingerprint](https://github.com/wanghaisheng/my-github-fingerprint)
+ 
+- [seed of gratitude:gamitification of jounaling](https://github.com/wanghaisheng/seed-of-gratitude)
+  
+- 🔭 previous
+  
+- [**tiktoka uploader genius**](https://github.com/wanghaisheng/tiktoka-studio-uploader-app)
+- [**tiktoka video genius**](https://github.com/wanghaisheng/video-genius)
+- [**tiktoka thumbnail genius**](https://github.com/wanghaisheng/thumnail-geniuous)
+- [**tiktoka post genius**](https://github.com/wanghaisheng/post-genious)
+- [**tiktoka account genius**](https://github.com/wanghaisheng/social-account-genious)
+- [**tiktoka link genius**](https://github.com/wanghaisheng/link-genious)
+- [**tiktoka pdf genius**](https://github.com/wanghaisheng/pdf-genious)
+- [**tiktoka uploader**](https://github.com/wanghaisheng/youtube-auto-upload)
+- [**tiktoka brand genius**](https://github.com/wanghaisheng/brand-genious)
+- [**tiktoka keyword genius**](https://github.com/wanghaisheng/keyword-genius)
+- [**persona genius**](https://github.com/wanghaisheng/persona-account-genius/tree/master)
+- [**linkedinGenius**](https://github.com/wanghaisheng/linkedinGenius/tree/master)
+- [**hashtag genius**](https://github.com/wanghaisheng/hashtag-genius/blob/main/README.md)

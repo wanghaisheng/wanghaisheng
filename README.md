@@ -2,8 +2,7 @@
 
 any support is appreciated
 
-https://www.producthunt.com/posts/want-to-level-up-your-ai-coding/maker-invite?code=wMykDO
-
+<iframe style="border: none;" src="https://cards.producthunt.com/cards/products/901625" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
 working on heytcm project now.It is a mix  about Game,self care,wearable device,tcm 

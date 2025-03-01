@@ -2,10 +2,7 @@
 
 any support is appreciated
 
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/products/901625" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-
-working on heytcm project now.It is a mix  about Game,self care,wearable device,tcm 
+working on heytcm project now.It is a mix  about Game,self care,wearable device,tcm . try to explain the truth under kinds of systoms with chinese medicine philosophy instead of lab test and diagnostic report, find out the cure for non disease condition with the empower of ai and tcm and weareable technology
 
 https://heytcm.com
 

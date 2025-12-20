@@ -6,6 +6,8 @@ working on heytcm project now.It is a mix  about Game,self care,wearable device,
 
 https://heytcm.com
 
+https://borninsea.com
+
 很久很久以前我没有太想过理想能不能实现这件事，坚持的过程没有正反馈这件事大约2018开始就把我弄崩溃了，不过今年收获很大，一是鸡蛋不要放在一个篮子里，二是你好中医这个项目，有点愚公移山精卫填海的意思，尽管很难，但可以预见的是这件事情最终它是会实现的，当下我只要学习那只让大提毁于一旦的蚂蚁就好。
 
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
-mouthship starter: glc vibecoding 2026: Google ai studio X Lovable X Cloudflare
-https://mouthship.borninsea.com/
+[mouthship starter: glc vibecoding 2026: Google ai studio X Lovable X Cloudflare](https://mouthship.borninsea.com/)
+
 
 
 any support is appreciated

@@ -3,13 +3,15 @@
 
 
 
-any support is appreciated
+any support is appreciated,if you sponsor me,please drop me a email at whs860603@gmail.com and I will give you a little gift from my little hometown in northwest of China
 
 working on heytcm project now.It is a mix  about Game,self care,wearable device,tcm . try to explain the truth under kinds of systoms with chinese medicine philosophy instead of lab test and diagnostic report, find out the cure for non disease condition with the empower of ai and tcm and weareable technology
 
 https://heytcm.com
 
 [a niche site about crowfunding brand](https://1m-makers.borninsea.com/)
+
+
 大家好，我是Pearl项目的创始人。从小在情感忽视中长大，我一度觉得自己‘原厂配置最差’——自信缺失、无法回应感情、深陷内耗。后来，通过日记和自省，我发现创伤不是诅咒，而是天赋的种子。我提炼出TIE方法论（创伤即天赋），包括心流英语、自然能量提取、美好回忆咀嚼等技巧。
 为了帮助像我一样的 CPTSD 幸存者，我创建了三个网站：
 pearl-dataset.borninsea.com：我的完整生存档案，作为开源样本供大家对照和研究。

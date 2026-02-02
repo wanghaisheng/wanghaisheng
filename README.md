@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm heisen</h1>
+<h3 align="center">Automation is my thing.A passionate smart watch pm from China</h3>
+医疗行业从业十年，野生产品狗，医疗信息化标准专家，开源技术的卜道师，半路出家的码畜,离职在家的废物。
+
+
 [mouthship starter:vibecoding stacks for greenhands glc 2026-Google ai studio X Lovable X Cloudflare](https://mouthship.borninsea.com/)
 
 Shipping more ideas under my personal sub domain  under https://borninsea.com 
@@ -25,9 +30,6 @@ pearl-coach.borninsea.com：一对一指导和淬炼营，帮助你化沙为珠�
 
 
 
-<h1 align="center">Hi 👋, I'm heisen</h1>
-<h3 align="center">Automation is my thing.A passionate smart watch pm from China</h3>
-医疗行业从业十年，野生产品狗，医疗信息化标准专家，开源技术的卜道师，半路出家的码畜,离职在家的废物。
 
 With ten years of experience in the Health information  industry, I am a self-taught product dog, an expert in medical informatization standards, a diviner of open-source technology, and a programmer who started halfway. Now I am a waste staying at home after resigning.
 

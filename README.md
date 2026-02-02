@@ -1,6 +1,7 @@
 ### Hi there 👋
-[mouthship starter: glc vibecoding 2026: Google ai studio X Lovable X Cloudflare](https://mouthship.borninsea.com/)
+[mouthship starter:vibecoding stacks for greenhands glc 2026-Google ai studio X Lovable X Cloudflare](https://mouthship.borninsea.com/)
 
+Shipping more ideas under my personal sub domain  under https://borninsea.com 
 
 
 any support is appreciated,if you sponsor me,please drop me a email at whs860603@gmail.com and I will give you a little gift from my little hometown in northwest of China

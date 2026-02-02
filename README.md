@@ -42,12 +42,6 @@ Benjamin Franklin once said: “If you would not be forgotten as soon as you are
 
 
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-
-
-
 - 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanghaisheng&label=Profile%20views&color=0e75b6&style=flat" alt="wanghaisheng" /> </p>
 

@@ -4,6 +4,10 @@
 医疗行业从业十年，野生产品狗，医疗信息化标准专家，开源技术的卜道师，半路出家的码畜,离职在家的废物。
 
 
+
+https://opengame.borninsea.com  bmad agent first game dev stack 
+
+
 [mouthship starter:vibecoding stacks for greenhands glc 2026-Google ai studio X Lovable X Cloudflare](https://mouthship.borninsea.com/)
 
 Shipping more ideas under my personal sub domain  under https://borninsea.com 

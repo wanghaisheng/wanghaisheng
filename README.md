@@ -1,11 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm heisen</h1>
 <h3 align="center">Automation is my thing.A passionate smart watch pm from China</h3>
-医疗行业从业十年，野生产品狗，医疗信息化标准专家，开源技术的卜道师，半路出家的码畜,离职在家的废物。
+
+
+医疗行业从业十年，野生产品狗，医疗信息化标准专家，开源技术的卜道师，半路出家的码畜。
 
 
 
-https://opengame.borninsea.com  bmad agent first game dev stack 
+https://opengame.borninsea.com    agent first game dev stack  bmad openspec
 
 
 [mouthship starter:vibecoding stacks for greenhands glc 2026-Google ai studio X Lovable X Cloudflare](https://mouthship.borninsea.com/)

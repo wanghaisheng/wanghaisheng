@@ -6,7 +6,9 @@
 医疗行业从业15年，野生产品狗，医疗信息化标准专家，开源技术的卜道师，半路出家的码畜。
 
 
-https://github.com/wanghaisheng/OpenAgenticGame-Studios  ai game studio
+https://github.com/wanghaisheng/OpenAgenticGame-Studios  ai game studio 
+
+
 https://opengame.borninsea.com    agent first game dev stack  bmad openspec
 
 

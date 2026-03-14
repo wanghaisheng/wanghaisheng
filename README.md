@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm heisen</h1>
-<h3 align="center">Automation is my thing.A passionate smart watch pm from China</h3>
+<h3 align="center">Automation is my thing.A passionate solo founder from China</h3>
 
 Let AI act as workhorse and keep you sleep,play, be pretty,be healthy
 

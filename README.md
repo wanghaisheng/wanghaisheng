@@ -12,7 +12,7 @@ https://github.com/wanghaisheng/open-ai-workhorse-specs
 
 https://github.com/wanghaisheng/open-ai-workhorse
 
-https://github.com/wanghaisheng/Open-ai-workhorse-skill-Spec
+https://github.com/wanghaisheng/open-ai-workhorse-skill-Spec
 
 
 

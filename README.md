@@ -7,6 +7,14 @@ Let AI act as workhorse and keep you sleep,play, be pretty,be healthy
 https://openworkhorse.borninsea.com
 
 
+https://github.com/wanghaisheng/open-ai-workhorse-specs
+
+
+https://github.com/wanghaisheng/open-ai-workhorse
+
+https://github.com/wanghaisheng/Open-ai-workhorse-skill-Spec
+
+
 
 https://github.com/wanghaisheng/OpenAgenticGame-Studios  ai game studio 
 

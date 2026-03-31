@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm heisen</h1>
 <h3 align="center">Automation is my thing.A passionate solo founder from China</h3>
 
+
+
+
 Let AI act as workhorse and keep you sleep,play, be pretty,be healthy
 
 https://openworkhorse.borninsea.com
@@ -13,6 +16,10 @@ https://openworkhorse.borninsea.com
 https://github.com/wanghaisheng/open-ai-workhorse
 
 https://github.com/wanghaisheng/open-ai-workhorse-skill-Spec
+
+
+🚀mouthship-kit is a monorepo starterkit aiming to be the foundation you build your next startup or big idea upon.
+https://github.com/wanghaisheng/mouthship-kit
 
 
 

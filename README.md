@@ -13,7 +13,12 @@ https://openworkhorse.borninsea.com
 [AI Workhorse Framework aka AI Workhorse os Model](https://github.com/wanghaisheng/open-ai-workhorse-framework)
 
 
-https://github.com/wanghaisheng/open-ai-workhorse
+[ai workhorse os在design和game2个领域应用的探索
+](https://github.com/wanghaisheng/openaiworkhorse-design-team)
+
+
+
+
 
 https://github.com/wanghaisheng/open-ai-workhorse-skill-Spec
 

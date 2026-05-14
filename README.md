@@ -10,7 +10,7 @@ Let AI act as workhorse and keep you sleep,play, be pretty,be healthy
 https://openworkhorse.borninsea.com
 
 
-[AI Workhorse Framework aka AI Workhorse Model](https://github.com/wanghaisheng/open-ai-workhorse-framework)
+[AI Workhorse Framework aka AI Workhorse os Model](https://github.com/wanghaisheng/open-ai-workhorse-framework)
 
 
 https://github.com/wanghaisheng/open-ai-workhorse
